@@ -11,6 +11,23 @@
 		9B1B0EE027314D3C00ACC62C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1B0EDF27314D3C00ACC62C /* ContentView.swift */; };
 		9B1B0EE227314D3E00ACC62C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B1B0EE127314D3E00ACC62C /* Assets.xcassets */; };
 		9B1B0EE527314D3E00ACC62C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B1B0EE427314D3E00ACC62C /* Preview Assets.xcassets */; };
+		9B1B0EEE27315B2F00ACC62C /* bitgoeul_Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B1B0EEB27315B2F00ACC62C /* bitgoeul_Medium.otf */; };
+		9B1B0EEF27315B2F00ACC62C /* bitgoeul_Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B1B0EEC27315B2F00ACC62C /* bitgoeul_Bold.otf */; };
+		9B1B0EF027315B2F00ACC62C /* bitgoeul_Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B1B0EED27315B2F00ACC62C /* bitgoeul_Light.otf */; };
+		9B1B0EF72732308000ACC62C /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1B0EF62732308000ACC62C /* User.swift */; };
+		9B1B0EF92732387D00ACC62C /* Assessment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1B0EF82732387D00ACC62C /* Assessment.swift */; };
+		9B7459612732415800F4480B /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B7459602732415800F4480B /* Article.swift */; };
+		9B745965273369E400F4480B /* ArticleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B745964273369E400F4480B /* ArticleView.swift */; };
+		9B74596727338BAE00F4480B /* geulzza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B74596627338BAE00F4480B /* geulzza.swift */; };
+		9B74596E2733DCBD00F4480B /* kimdaegeon_Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B74596C2733DCBD00F4480B /* kimdaegeon_Light.otf */; };
+		9B74596F2733DCBD00F4480B /* kimdaegeon_Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B74596D2733DCBD00F4480B /* kimdaegeon_Medium.otf */; };
+		9B7459752733DEFF00F4480B /* MaruBuri-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B7459702733DEFE00F4480B /* MaruBuri-SemiBold.otf */; };
+		9B7459762733DEFF00F4480B /* MaruBuri-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B7459712733DEFF00F4480B /* MaruBuri-Bold.otf */; };
+		9B7459772733DEFF00F4480B /* MaruBuri-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B7459722733DEFF00F4480B /* MaruBuri-Regular.otf */; };
+		9B7459782733DEFF00F4480B /* MaruBuri-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B7459732733DEFF00F4480B /* MaruBuri-ExtraLight.otf */; };
+		9B7459792733DEFF00F4480B /* MaruBuri-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B7459742733DEFF00F4480B /* MaruBuri-Light.otf */; };
+		9B74597B2734B1E700F4480B /* A-OTF-KochoStd-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B74597A2734B1E600F4480B /* A-OTF-KochoStd-Heavy.otf */; };
+		9B74597D2734B22600F4480B /* HanWangMingBlack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B74597C2734B22600F4480B /* HanWangMingBlack.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +36,24 @@
 		9B1B0EDF27314D3C00ACC62C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9B1B0EE127314D3E00ACC62C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B1B0EE427314D3E00ACC62C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9B1B0EEB27315B2F00ACC62C /* bitgoeul_Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = bitgoeul_Medium.otf; sourceTree = "<group>"; };
+		9B1B0EEC27315B2F00ACC62C /* bitgoeul_Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = bitgoeul_Bold.otf; sourceTree = "<group>"; };
+		9B1B0EED27315B2F00ACC62C /* bitgoeul_Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = bitgoeul_Light.otf; sourceTree = "<group>"; };
+		9B1B0EF127315B5400ACC62C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		9B1B0EF62732308000ACC62C /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		9B1B0EF82732387D00ACC62C /* Assessment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assessment.swift; sourceTree = "<group>"; };
+		9B7459602732415800F4480B /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		9B745964273369E400F4480B /* ArticleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleView.swift; sourceTree = "<group>"; };
+		9B74596627338BAE00F4480B /* geulzza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = geulzza.swift; sourceTree = "<group>"; };
+		9B74596C2733DCBD00F4480B /* kimdaegeon_Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = kimdaegeon_Light.otf; sourceTree = "<group>"; };
+		9B74596D2733DCBD00F4480B /* kimdaegeon_Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = kimdaegeon_Medium.otf; sourceTree = "<group>"; };
+		9B7459702733DEFE00F4480B /* MaruBuri-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaruBuri-SemiBold.otf"; sourceTree = "<group>"; };
+		9B7459712733DEFF00F4480B /* MaruBuri-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaruBuri-Bold.otf"; sourceTree = "<group>"; };
+		9B7459722733DEFF00F4480B /* MaruBuri-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaruBuri-Regular.otf"; sourceTree = "<group>"; };
+		9B7459732733DEFF00F4480B /* MaruBuri-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaruBuri-ExtraLight.otf"; sourceTree = "<group>"; };
+		9B7459742733DEFF00F4480B /* MaruBuri-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaruBuri-Light.otf"; sourceTree = "<group>"; };
+		9B74597A2734B1E600F4480B /* A-OTF-KochoStd-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "A-OTF-KochoStd-Heavy.otf"; sourceTree = "<group>"; };
+		9B74597C2734B22600F4480B /* HanWangMingBlack.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanWangMingBlack.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +86,27 @@
 		9B1B0EDC27314D3C00ACC62C /* ebagilbo */ = {
 			isa = PBXGroup;
 			children = (
+				9B1B0EF127315B5400ACC62C /* Info.plist */,
 				9B1B0EDD27314D3C00ACC62C /* ebagilboApp.swift */,
 				9B1B0EDF27314D3C00ACC62C /* ContentView.swift */,
+				9B74596627338BAE00F4480B /* geulzza.swift */,
+				9B7459602732415800F4480B /* Article.swift */,
+				9B745964273369E400F4480B /* ArticleView.swift */,
+				9B1B0EF62732308000ACC62C /* User.swift */,
+				9B1B0EF82732387D00ACC62C /* Assessment.swift */,
 				9B1B0EE127314D3E00ACC62C /* Assets.xcassets */,
+				9B1B0EEC27315B2F00ACC62C /* bitgoeul_Bold.otf */,
+				9B1B0EED27315B2F00ACC62C /* bitgoeul_Light.otf */,
+				9B1B0EEB27315B2F00ACC62C /* bitgoeul_Medium.otf */,
+				9B74596C2733DCBD00F4480B /* kimdaegeon_Light.otf */,
+				9B74596D2733DCBD00F4480B /* kimdaegeon_Medium.otf */,
+				9B7459712733DEFF00F4480B /* MaruBuri-Bold.otf */,
+				9B7459732733DEFF00F4480B /* MaruBuri-ExtraLight.otf */,
+				9B7459742733DEFF00F4480B /* MaruBuri-Light.otf */,
+				9B7459722733DEFF00F4480B /* MaruBuri-Regular.otf */,
+				9B7459702733DEFE00F4480B /* MaruBuri-SemiBold.otf */,
+				9B74597A2734B1E600F4480B /* A-OTF-KochoStd-Heavy.otf */,
+				9B74597C2734B22600F4480B /* HanWangMingBlack.ttf */,
 				9B1B0EE327314D3E00ACC62C /* Preview Content */,
 			);
 			path = ebagilbo;
@@ -125,8 +178,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B74597D2734B22600F4480B /* HanWangMingBlack.ttf in Resources */,
+				9B74596E2733DCBD00F4480B /* kimdaegeon_Light.otf in Resources */,
+				9B74596F2733DCBD00F4480B /* kimdaegeon_Medium.otf in Resources */,
 				9B1B0EE527314D3E00ACC62C /* Preview Assets.xcassets in Resources */,
 				9B1B0EE227314D3E00ACC62C /* Assets.xcassets in Resources */,
+				9B7459762733DEFF00F4480B /* MaruBuri-Bold.otf in Resources */,
+				9B7459792733DEFF00F4480B /* MaruBuri-Light.otf in Resources */,
+				9B74597B2734B1E700F4480B /* A-OTF-KochoStd-Heavy.otf in Resources */,
+				9B1B0EEE27315B2F00ACC62C /* bitgoeul_Medium.otf in Resources */,
+				9B7459782733DEFF00F4480B /* MaruBuri-ExtraLight.otf in Resources */,
+				9B1B0EF027315B2F00ACC62C /* bitgoeul_Light.otf in Resources */,
+				9B1B0EEF27315B2F00ACC62C /* bitgoeul_Bold.otf in Resources */,
+				9B7459752733DEFF00F4480B /* MaruBuri-SemiBold.otf in Resources */,
+				9B7459772733DEFF00F4480B /* MaruBuri-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +202,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B7459612732415800F4480B /* Article.swift in Sources */,
+				9B745965273369E400F4480B /* ArticleView.swift in Sources */,
 				9B1B0EE027314D3C00ACC62C /* ContentView.swift in Sources */,
+				9B74596727338BAE00F4480B /* geulzza.swift in Sources */,
+				9B1B0EF72732308000ACC62C /* User.swift in Sources */,
+				9B1B0EF92732387D00ACC62C /* Assessment.swift in Sources */,
 				9B1B0EDE27314D3C00ACC62C /* ebagilboApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,6 +342,7 @@
 				DEVELOPMENT_TEAM = WUAP2PU52R;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ebagilbo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -301,6 +372,7 @@
 				DEVELOPMENT_TEAM = WUAP2PU52R;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ebagilbo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
